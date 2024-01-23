@@ -1,0 +1,15 @@
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.AssemblyInfo.cs
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.sourcelink.json
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\bin\Debug\net6.0\PositivosEMedia_1064.exe
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\bin\Debug\net6.0\PositivosEMedia_1064.deps.json
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\bin\Debug\net6.0\PositivosEMedia_1064.runtimeconfig.json
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\bin\Debug\net6.0\PositivosEMedia_1064.dll
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\bin\Debug\net6.0\PositivosEMedia_1064.pdb
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.dll
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\obj\Debug\net6.0\refint\PositivosEMedia_1064.dll
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.pdb
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\obj\Debug\net6.0\PositivosEMedia_1064.genruntimeconfig.cache
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\PositivosEMedia_1064\obj\Debug\net6.0\ref\PositivosEMedia_1064.dll
