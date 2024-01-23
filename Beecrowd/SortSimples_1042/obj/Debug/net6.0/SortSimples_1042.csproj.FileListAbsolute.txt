@@ -1,0 +1,15 @@
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\bin\Debug\net6.0\SortSimples_1042.exe
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\bin\Debug\net6.0\SortSimples_1042.deps.json
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\bin\Debug\net6.0\SortSimples_1042.runtimeconfig.json
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\bin\Debug\net6.0\SortSimples_1042.dll
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\bin\Debug\net6.0\SortSimples_1042.pdb
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.AssemblyInfo.cs
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.sourcelink.json
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.dll
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\obj\Debug\net6.0\refint\SortSimples_1042.dll
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.pdb
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.genruntimeconfig.cache
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\SortSimples_1042\obj\Debug\net6.0\ref\SortSimples_1042.dll
