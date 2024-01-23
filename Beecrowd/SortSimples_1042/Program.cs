@@ -10,52 +10,26 @@ public class Program
         int b = int.Parse(entradas[1]);
         int c = int.Parse(entradas[2]);
 
-        if (a < b && a < c)
-        {
-            Console.WriteLine(a);
+        int menor = Math.Min(Math.Min(a, b), c);
+        int maior = Math.Max(Math.Max(a, b), c);
+        int meio;
 
-            if (b < c)
-            {
-                Console.WriteLine(b);
-                Console.WriteLine(c);
-            }
-            else
-            {
-                Console.WriteLine(c);
-                Console.WriteLine(b);
-            }
+        if (a != menor && a != maior)
+        {
+            meio = a;
         }
-        else if (b < a && b < c)
+        else if (b != menor && b != maior)
         {
-            Console.WriteLine(b);
-
-            if (a < c)
-            {
-                Console.WriteLine(a);
-                Console.WriteLine(c);
-            }
-            else
-            {
-                Console.WriteLine(c);
-                Console.WriteLine(a);
-            }
+            meio = b;
         }
         else
         {
-            Console.WriteLine(c);
-
-            if (a < b)
-            {
-                Console.WriteLine(a);
-                Console.WriteLine(b);
-            }
-            else
-            {
-                Console.WriteLine(b);
-                Console.WriteLine(a);
-            }
+            meio = c;
         }
 
+        Console.WriteLine(menor);
+        Console.WriteLine(meio);
+        Console.WriteLine(maior);
         Console.WriteLine();
         Console.WriteLine(a);
         Console.WriteLine(b);
