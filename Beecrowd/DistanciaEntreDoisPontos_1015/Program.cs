@@ -20,7 +20,7 @@ public class Program
         double diferenca_x = x2 - x1;
         double diferenca_y = y2 - y1;
 
-        double distancia = Math.Sqrt((diferenca_x * diferenca_x) + (diferenca_y * diferenca_y));
+        double distancia = Math.Sqrt(diferenca_x * diferenca_x + diferenca_y * diferenca_y);
 
         Console.WriteLine($"{distancia:F4}");
     }
