@@ -6,12 +6,14 @@ public class Program
     {
         int n = int.Parse(Console.ReadLine());
 
-        for (int pos = 1; pos <= 10000; pos++)
+        if (n <= 2)
         {
-            if (pos % n == 2)
-            {
-                Console.WriteLine(pos);
-            }
+            return;
+        }
+
+        for (int i = 2; i <= 10000; i += n)
+        {
+            Console.WriteLine(i);
         }
     }
 }
