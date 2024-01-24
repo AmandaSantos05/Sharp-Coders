@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Resto2_1075/1.0.0": {
+        "runtime": {
+          "Resto2_1075.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Resto2_1075/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

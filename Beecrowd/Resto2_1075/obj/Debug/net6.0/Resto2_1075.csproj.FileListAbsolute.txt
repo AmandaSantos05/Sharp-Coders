@@ -1,0 +1,15 @@
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\bin\Debug\net6.0\Resto2_1075.exe
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\bin\Debug\net6.0\Resto2_1075.deps.json
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\bin\Debug\net6.0\Resto2_1075.runtimeconfig.json
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\bin\Debug\net6.0\Resto2_1075.dll
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\bin\Debug\net6.0\Resto2_1075.pdb
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\obj\Debug\net6.0\Resto2_1075.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\obj\Debug\net6.0\Resto2_1075.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\obj\Debug\net6.0\Resto2_1075.AssemblyInfo.cs
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\obj\Debug\net6.0\Resto2_1075.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\obj\Debug\net6.0\Resto2_1075.sourcelink.json
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\obj\Debug\net6.0\Resto2_1075.dll
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\obj\Debug\net6.0\refint\Resto2_1075.dll
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\obj\Debug\net6.0\Resto2_1075.pdb
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\obj\Debug\net6.0\Resto2_1075.genruntimeconfig.cache
+C:\Users\amand\Desktop\Sharp-Coders\Beecrowd\Resto2_1075\obj\Debug\net6.0\ref\Resto2_1075.dll
