@@ -1,4 +1,6 @@
-﻿namespace MultiplosDe13_1132;
+﻿using System;
+
+namespace MultiplosDe13_1132;
 
 public class Program
 {
