@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Requisições</title>
+
+    <script>
+        // o padrão é GET
+        // fetch('http://localhost:3000/clientes')
+        //     .then(req => req.json())
+        //     .then(clientes => console.table(clientes))
+
+        // POST
+        // fetch('http://localhost:3000/clientes',
+        //     {
+        //         method: 'POST',
+        //         body: JSON.stringify({ 'nome': 'Amanda', 'idade': 27 }),
+        //         headers: { 'Content-Type': 'application/json' }
+        //     })
+        //     .then(req => req.json())
+        //     .then(cliente => console.log(cliente))
+
+        // PUT
+        // fetch('http://localhost:3000/clientes/4',
+        //     {
+        //         method: 'PUT',
+        //         body: JSON.stringify({ 'nome': 'Rebeca', 'idade': 19 }),
+        //         headers: { 'Content-Type': 'application/json' }
+        //     })
+        //     .then(req => req.json())
+        //     .then(cliente => console.log(cliente))
+
+        // DELETE
+        // fetch('http://localhost:3000/clientes/23',
+        //     {
+        //         method: 'DELETE',
+        //         headers: { 'Content-Type': 'application/json' }
+        //     })
+        //     .then(req => req.json())
+        //     .then(cliente => console.log(cliente))
+
+        // IMPLEMENTAR O FETCH
+        fetch('http://localhost:3000/clientess/23',
+            {
+                method: 'DELETE',
+                headers: { 'Content-Type': 'application/json' }
+            })
+            .then(cliente => console.log(cliente))
+            .catch(erro => console.log(`Erro apresentado: ${erro}`))
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: radial-gradient(circle at 50% -20.71%, #8adafa 0, #56bde5 50%, #00a1d0 100%);
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.div-principal {
+    width: 80%;
+    height: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .215);
+}
+
+.div-section {
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.listar-tarefas {
+    margin-top: 20px;
+}
+
+.footer {
+    display: flex;
+}
+
+.footer .cop {
+    width: 50%;
+}
+
+.footer .redes-sociais {
+    width: 50%;
+    display: flex;
+}
+
+.footer .redes-sociais p {
+    text-align: center;
+}

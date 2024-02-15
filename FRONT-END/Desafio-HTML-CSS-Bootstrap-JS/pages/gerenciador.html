@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciador de Tarefas</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../assets/css/styleGerenciador.css">
+</head>
+
+<body>
+    <div class="container div-principal">
+        <div class="header">
+            <div class="title-header">
+                <p class="nome-usuario">Olá</p>
+            </div>
+            <div class="button-sair">
+                <a class="btn btn-outline-secondary fw-bolder" href="#" role="button">Sair</a>
+            </div>
+        </div>
+
+
+        <div class="div-section container">
+            <div class="title-tarefas">
+                <h1>Gerenciador de Tarefas</h1>
+            </div>
+
+            <div class="gerenciar-tarefas">
+                <div class="form-floating mb-3">
+                    <input type="email" class="form-control opacity-25" id="floatingInput" placeholder="Tarefa">
+                    <label for="floatingInput">Tarefa</label>
+                </div>
+                <div class="form-colun row align-items-start">
+                    <div class="col mb-3">
+                        <div class="form-floating mb-3">
+                            <input type="email" class="form-control opacity-25" id="floatingInput"
+                                placeholder="Data início">
+                            <label for="floatingInput">Data início</label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input type="email" class="form-control opacity-25" id="floatingInput"
+                                placeholder="Data término">
+                            <label for="floatingInput">Data término</label>
+                        </div>
+                    </div>
+                    <div class="col mb-3">
+                        <div class="form-floating mb-3">
+                            <input type="email" class="form-control opacity-25" id="floatingInput"
+                                placeholder="Hora início">
+                            <label for="floatingInput">Hora início</label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input type="email" class="form-control opacity-25" id="floatingInput"
+                                placeholder="Hora término">
+                            <label for="floatingInput">Hora término</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-floating mb-3">
+                    <textarea class="form-control opacity-25" placeholder="Descrição" id="floatingTextarea2"
+                        style="height: 100px"></textarea>
+                    <label for="floatingTextarea2">Descrição</label>
+                </div>
+            </div>
+
+            <div class="col-1 mx-auto">
+                <a class="btn btn-outline-secondary fw-bolder" href="#" role="button">Criar tarefa</a>
+            </div>
+
+            <div class="listar-tarefas container">
+                <table class="table table-borderless table-hover">
+                    <thead>
+                        <tr>
+                            <th class=" bg-transparent">Tarefa</th>
+                            <th class=" bg-transparent">Início</th>
+                            <th class=" bg-transparent">Término</th>
+                            <th class=" bg-transparent">Status</th>
+                            <th class=" bg-transparent">Alterar</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="bg-transparent">dgvdfgdf</td>
+                            <td class="bg-transparent">dgvdfgdf</td>
+                            <td class="bg-transparent">dgvdfgdf</td>
+                            <td class="bg-transparent">dgvdfgdf</td>
+                            <td class="bg-transparent">dgvdfgdf</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="cop">
+                <p>&copy;2023 Amanda Santos</p>
+            </div>
+            <div class="redes-sociais">
+                <p>LinkedIn</p>
+                <p>GitHub</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
