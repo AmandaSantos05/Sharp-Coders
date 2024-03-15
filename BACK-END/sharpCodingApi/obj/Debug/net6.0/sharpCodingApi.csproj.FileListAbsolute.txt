@@ -30,3 +30,36 @@ C:\Users\amand\Desktop\Sharp Coders - Backend\sharpCodingApi\obj\Debug\net6.0\re
 C:\Users\amand\Desktop\Sharp Coders - Backend\sharpCodingApi\obj\Debug\net6.0\sharpCodingApi.pdb
 C:\Users\amand\Desktop\Sharp Coders - Backend\sharpCodingApi\obj\Debug\net6.0\sharpCodingApi.genruntimeconfig.cache
 C:\Users\amand\Desktop\Sharp Coders - Backend\sharpCodingApi\obj\Debug\net6.0\ref\sharpCodingApi.dll
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\sharpCodingApi.csproj.AssemblyReference.cache
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\sharpCodingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\sharpCodingApi.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\sharpCodingApi.AssemblyInfo.cs
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\sharpCodingApi.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\sharpCodingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\sharpCodingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\sharpCodingApi.sourcelink.json
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\sharpCodingApi.dll
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\refint\sharpCodingApi.dll
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\sharpCodingApi.pdb
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\bin\Debug\net6.0\appsettings.json
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\bin\Debug\net6.0\sharpCodingApi.exe
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\bin\Debug\net6.0\sharpCodingApi.deps.json
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\bin\Debug\net6.0\sharpCodingApi.runtimeconfig.json
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\bin\Debug\net6.0\sharpCodingApi.dll
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\bin\Debug\net6.0\sharpCodingApi.pdb
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\staticwebassets\msbuild.sharpCodingApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\staticwebassets\msbuild.build.sharpCodingApi.props
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sharpCodingApi.props
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sharpCodingApi.props
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\scopedcss\bundle\sharpCodingApi.styles.css
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\sharpCodingApi.csproj.CopyComplete
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\sharpCodingApi.genruntimeconfig.cache
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\sharpCodingApi\obj\Debug\net6.0\ref\sharpCodingApi.dll
