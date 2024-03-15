@@ -1,9 +1,10 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace sharpCodingApi.Model;
+namespace sharpCodingApi.Domain.Model;
 
 public class User
 {
+    [Key]
     public int Id { get; set; }
 
     [Required(AllowEmptyStrings = false, ErrorMessage = "Name is required")]

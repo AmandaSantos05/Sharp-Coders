@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using sharpCodingApi.Model;
+using sharpCodingApi.Domain.DTO;
+using sharpCodingApi.Domain.Model;
 
 namespace sharpCodingApi.Controllers;
 
@@ -35,11 +36,28 @@ public class UserController : ControllerBase
     {
         User? user = users.Find((user) => user.Id == id);
 
-        return user != null ? Ok(user) : NotFound();
+        if (user == null)
+            return NotFound();
+
+        UserProfileDto userProfile = new()
+        {
+            Id = user.Id,
+            Name = user.Name,
+            Email = user.Email
+        };
+        return Ok(userProfile);
     }
 
-    [HttpPost]
-    public IActionResult CreateUser(User user)
+    [HttpPost("register")]
+    public IActionResult Register(User user)
+    {
+        users.Add(user);
+
+        return Ok("user created!");
+    }
+
+    [HttpPost("login")]
+    public IActionResult Login(User user)
     {
         users.Add(user);
 
