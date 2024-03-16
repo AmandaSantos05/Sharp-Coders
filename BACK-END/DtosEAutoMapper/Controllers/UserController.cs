@@ -33,12 +33,8 @@ public class UserController : ControllerBase
             return NoContent();
         }
 
-        var userResponse = users.Select(user => new UserResponseDto
-        {
-            Id = user.Id,
-            Username = user.Username,
-            Email = user.Email
-        });
+        var userResponse = users.Select(user => new UserResponseDto(user));
+
         return Ok(userResponse);
     }
 
@@ -52,13 +48,8 @@ public class UserController : ControllerBase
             return BadRequest();
         }
 
-        User user = new()
-        {
-            Id = users.Count + 1,
-            Email = userRequest.Email,
-            Username = userRequest.Username,
-            Password = userRequest.Password
-        };
+        User user = userRequest.ToUser();
+        user.Id = users.Count + 1;
 
         users.Add(user);
 
