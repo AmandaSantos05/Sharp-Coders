@@ -32,3 +32,4 @@ C:\Users\amand\Desktop\Sharp-Coders\BACK-END\DtosEAutoMapper\obj\Debug\net8.0\re
 C:\Users\amand\Desktop\Sharp-Coders\BACK-END\DtosEAutoMapper\obj\Debug\net8.0\DtosEAutoMapper.pdb
 C:\Users\amand\Desktop\Sharp-Coders\BACK-END\DtosEAutoMapper\obj\Debug\net8.0\DtosEAutoMapper.genruntimeconfig.cache
 C:\Users\amand\Desktop\Sharp-Coders\BACK-END\DtosEAutoMapper\obj\Debug\net8.0\ref\DtosEAutoMapper.dll
+C:\Users\amand\Desktop\Sharp-Coders\BACK-END\DtosEAutoMapper\bin\Debug\net8.0\AutoMapper.dll

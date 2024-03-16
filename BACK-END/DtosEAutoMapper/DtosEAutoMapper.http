@@ -9,7 +9,7 @@ POST {{DtosEAutoMapper_HostAddress}}/users
 Content-Type: application/json
 
 {
-    "email" : "user3@example.com",
-    "username" : "User3",
-    "password" : "user1234"
+    "email" : "user@example.com",
+    "username" : "User4",
+    "password" : "user12340"
 }

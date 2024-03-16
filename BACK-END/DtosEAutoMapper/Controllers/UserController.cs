@@ -1,5 +1,6 @@
-using DtosEAutoMapper.Dtos;
-using DtosEAutoMapper.Models;
+using AutoMapper;
+using DtosEAutoMapper.Domain.Dtos;
+using DtosEAutoMapper.Domain.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DtosEAutoMapper.Controllers;
@@ -24,6 +25,13 @@ public class UserController : ControllerBase
         }
     };
 
+    private readonly IMapper _mapper;
+
+    public UserController(IMapper mapper)
+    {
+        _mapper = mapper;
+    }
+
     [HttpGet]
     [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(List<User>))]
     public IActionResult GetAll()
@@ -33,7 +41,7 @@ public class UserController : ControllerBase
             return NoContent();
         }
 
-        var userResponse = users.Select(user => new UserResponseDto(user));
+        var userResponse = users.Select(_mapper.Map<UserResponseDto>); //Select(user => _mapper.Map<UserResponseDto>(user))
 
         return Ok(userResponse);
     }
@@ -48,7 +56,7 @@ public class UserController : ControllerBase
             return BadRequest();
         }
 
-        User user = userRequest.ToUser();
+        User user = _mapper.Map<User>(userRequest);
         user.Id = users.Count + 1;
 
         users.Add(user);
