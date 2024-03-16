@@ -1,6 +1,15 @@
 @DtosEAutoMapper_HostAddress = http://localhost:5286
 
-GET {{DtosEAutoMapper_HostAddress}}/weatherforecast/
+GET {{DtosEAutoMapper_HostAddress}}/users
 Accept: application/json
 
 ###
+
+POST {{DtosEAutoMapper_HostAddress}}/users
+Content-Type: application/json
+
+{
+    "email" : "user3@example.com",
+    "username" : "User3",
+    "password" : "user1234"
+}
